@@ -1,0 +1,5 @@
+#for jupyter notebook
+.ipynb_checkpoints/
+
+#for colab
+colab_commit.ipynb
